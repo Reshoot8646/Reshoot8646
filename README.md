@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reshoot8646
-- 👀 I’m interested in: Iot, DF/Soc/cti and programing
-- 🌱 I’m currently learning ... building a database server
+- 👀 I’m interested in: Iot, Soc(DF, CTI) and programing
+- 🌱 I’m currently learning ... Iot and building a database server
 - 💞️ I’m looking to collaborate on: different project
 - 📫 How to reach me: here, r+
 <!---
